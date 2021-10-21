@@ -1,3 +1,5 @@
 sklearn
 funcy
 argparse
+labelme
+pycocotools
