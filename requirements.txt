@@ -1,5 +1,7 @@
-sklearn
+scikit-learn
 funcy
 argparse
 labelme
 pycocotools
+scikit-image
+pandas
